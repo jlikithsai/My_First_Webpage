@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This is my first porfolio website 
+It is made of HTML,CSS and JavaScript 
+Feel free to reuse it ! 
